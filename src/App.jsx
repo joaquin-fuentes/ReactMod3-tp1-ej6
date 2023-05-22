@@ -22,3 +22,5 @@ const App = () => {
 };
 
 export default App;
+
+// con npm run build creo la carpeta de produccion "dist" 
