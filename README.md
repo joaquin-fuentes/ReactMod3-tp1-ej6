@@ -6,7 +6,7 @@ En este repositorio se encuentra el Ejercicio 6 del Trabajo Practico Numero 1 de
 - npm install
 - npm run dev
 
-- O tambien puede ingresar al siguiente link de netlify con el proyecto ya subido:
+- O tambien puede ingresar al siguiente link de netlify con el proyecto ya subido: https://react-tp1-ej06-joaquinfuentes.netlify.app/
 
 # Integrantes del proyecto
 Fuentes Joaquín Alberto
