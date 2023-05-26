@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 const Formulario = () => {
 
     const [tarea, setTarea] = useState("");
-    let tareasLocalstorage = JSON.parse(localStorage.getItem("listaTareas") || [])
+    let tareasLocalstorage = JSON.parse(localStorage.getItem("listaTareas") || "[]")
     const [listadoTareas, setListadoTareas] = useState(tareasLocalstorage);
 
     // aqui van las funciones
